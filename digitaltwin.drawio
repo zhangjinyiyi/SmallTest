@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T10:37:20.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XXwlqTya0ITGbeSQwGNE" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T10:42:25.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FY9Q0GNSWGAplE-VCjGY" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
     <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-24" value="reduce" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="wcZV9fzcy_JCORuPqOIP-23">
           <mxGeometry x="0.5002" relative="1" as="geometry">
-            <mxPoint x="-40" as="offset" />
+            <mxPoint x="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-2" value="Model Structure&lt;br&gt;with&lt;br&gt;&lt;b&gt;predefined/trained&lt;/b&gt; parameters&lt;br&gt;while-box/black-box&lt;br&gt;first-principle/data-driven" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -137,7 +137,7 @@
           <mxGeometry x="1094" y="400" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-56" value="AD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="986.9951736931556" y="234.9987986780118" as="geometry">
+          <mxGeometry x="985.9951736931556" y="234.9987986780118" as="geometry">
             <mxPoint x="3" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -145,9 +145,12 @@
           <mxGeometry x="478" y="360" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-58" value="JIT/vmap/pmap" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="816.9951736931556" y="316.9987986780118" as="geometry">
+          <mxGeometry x="819.9951736931556" y="316.9987986780118" as="geometry">
             <mxPoint x="-6" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-59" value="Special cases&lt;br&gt;- intermediate result in learning&lt;br&gt;- system of learnable models: how to&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="123" y="540" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
