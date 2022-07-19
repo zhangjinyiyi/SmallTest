@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T11:03:39.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="C1iqSQIRx8yuKM-j6aLa" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T11:06:17.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0KId51I9fcTDVJr_Ldn0" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
     <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="wcZV9fzcy_JCORuPqOIP-87" value="model&lt;br&gt;optimization" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="770" y="246" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wcZV9fzcy_JCORuPqOIP-92" value="preconditioner&lt;br&gt;reordering&lt;br&gt;graph optimization" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="1">
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-92" value="preconditioner&lt;br&gt;reordering&lt;br&gt;graph optimization&lt;br&gt;XLA?" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="789.9951736931556" y="304.9987986780118" as="geometry">
             <mxPoint x="-6" y="-2" as="offset" />
           </mxGeometry>
