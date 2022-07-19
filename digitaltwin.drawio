@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T11:12:06.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ptxqHNzk20JJ2BpDNusC" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T11:14:03.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DUmxJiDyDweKP1w0NmBm" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
     <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -78,8 +78,8 @@
             <mxPoint x="3" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wcZV9fzcy_JCORuPqOIP-57" value="should be able to show all state variables&lt;br&gt;system modeling&lt;br&gt;process system of nn?" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="478" y="360" width="270" height="60" as="geometry" />
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-57" value="should be able to show all state variables&lt;br&gt;system modeling&lt;br&gt;process system of nn?&lt;br&gt;Modules&lt;br&gt;SoS" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="478" y="360" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-58" value="JIT/vmap/pmap" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1002.9951736931556" y="317.9987986780118" as="geometry">
