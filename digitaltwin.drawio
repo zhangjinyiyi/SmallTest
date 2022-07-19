@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T07:53:26.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="IDXQ-v3ukE-y1mgEdzEW" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T07:56:30.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1giabZx_utle8qq9F9aZ" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
     <mxGraphModel dx="1351" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wcZV9fzcy_JCORuPqOIP-28" value="APP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="158" width="298" height="216" as="geometry" />
+          <mxGeometry x="1066" y="158" width="298" height="216" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wcZV9fzcy_JCORuPqOIP-1" target="wcZV9fzcy_JCORuPqOIP-2">
           <mxGeometry relative="1" as="geometry" />
@@ -35,10 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-2" value="Model Structure&lt;br&gt;with&lt;br&gt;&lt;b&gt;predefined/trained&lt;/b&gt; parameters&lt;br&gt;while-box/black-box&lt;br&gt;first-principle/data-driven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="227" width="206" height="96" as="geometry" />
+          <mxGeometry x="510" y="227" width="206" height="96" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-6" value="`f([\theta_0, \theta_d], \text{input}, \text{output}, \text{state}, x, t) = 0`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="309" y="185" width="610" height="28" as="geometry" />
+          <mxGeometry x="310" y="185" width="610" height="28" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-8" value="state&lt;br&gt;transition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="113" y="642" width="59" height="32" as="geometry" />
@@ -60,8 +60,11 @@
         <mxCell id="wcZV9fzcy_JCORuPqOIP-29" value="Digital twin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1214" y="192.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wcZV9fzcy_JCORuPqOIP-30" value="Control/Optimization&lt;br&gt;Edge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-30" value="Control/Optimization&lt;br&gt;Edge deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1214" y="297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-32" value="Accuracy&lt;br&gt;- model&lt;br&gt;- solver&lt;br&gt;- parameter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="863" y="385" width="72" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
