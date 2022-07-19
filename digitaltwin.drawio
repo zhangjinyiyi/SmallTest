@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T07:12:22.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3f-to6p1Q_E0Cfyoeqmh" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T07:16:43.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lyitLXVRdGJi9Pw6wC7d" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
-    <mxGraphModel dx="946" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-1" value="Problem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="113" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wcZV9fzcy_JCORuPqOIP-2" target="wcZV9fzcy_JCORuPqOIP-4">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,10 @@
           <mxGeometry x="461" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-4" value="Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="969" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-6" value="`f(\theta, \text{input}, \text{output}, \text{state}, x, t) = 0`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="278" y="326" width="493" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
