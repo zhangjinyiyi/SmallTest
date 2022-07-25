@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T10:21:38.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ei7bAr0WaLYxi5OPhnYM" version="20.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-25T10:22:40.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="l2zTMZIXW0QAmI2G66wv" version="20.0.1" type="github" pages="8">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Global">
     <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -239,7 +239,7 @@
           <mxGeometry x="300" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8bocCZIXOjOLphvC2Dg9-9" value="pytorch sampler&lt;br&gt;active learning" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="235" width="100" height="30" as="geometry" />
+          <mxGeometry x="-81" y="231" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
