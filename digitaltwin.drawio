@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T09:10:57.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="f4Jp7fgn-GFCjwwaNm9n" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-25T10:18:18.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="k8Tp0KTN_HIaYqxpRmZC" version="20.0.1" type="github" pages="2">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Global">
     <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -238,8 +238,8 @@
         <mxCell id="8bocCZIXOjOLphvC2Dg9-5" value="optimizer" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8bocCZIXOjOLphvC2Dg9-9" value="pytorch sampler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="250" width="100" height="20" as="geometry" />
+        <mxCell id="8bocCZIXOjOLphvC2Dg9-9" value="pytorch sampler&lt;br&gt;active learning" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="250" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
