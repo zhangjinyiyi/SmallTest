@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T06:14:12.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JyyghhkpSKF_IYntskJ9" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T07:09:53.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_cmR6iEWP7KvH64WbaJH" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
-    <mxGraphModel dx="1455" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,8 +151,8 @@
         <mxCell id="wcZV9fzcy_JCORuPqOIP-80" value="edge deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1334" y="411" width="236" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wcZV9fzcy_JCORuPqOIP-82" value="Cases&lt;br&gt;- PDE model&lt;br&gt;- system model&lt;br&gt;- NN model&lt;br&gt;- system of nn model&lt;br&gt;- hybrid model" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="123" y="630" width="150" height="110" as="geometry" />
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-82" value="Cases&lt;br&gt;- PDE model&lt;br&gt;- system model&lt;br&gt;- NN model&lt;br&gt;- system of nn model&lt;br&gt;- hybrid model&lt;br&gt;- model calibration&lt;br&gt;- control and optimization" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="123" y="630" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-86" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;elbow=vertical;" edge="1" parent="1" source="wcZV9fzcy_JCORuPqOIP-84" target="wcZV9fzcy_JCORuPqOIP-80">
           <mxGeometry relative="1" as="geometry" />
@@ -170,6 +170,12 @@
           <mxGeometry x="789.9951736931556" y="304.9987986780118" as="geometry">
             <mxPoint x="-6" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-95" value="data via MSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="626" y="77" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-96" value="prior knowledge via equations/rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="455" y="109" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
