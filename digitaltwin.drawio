@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T11:19:47.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DcNhfWI-Cnfj6oZMLSso" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T06:14:12.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JyyghhkpSKF_IYntskJ9" version="20.0.1" type="github">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Page-1">
-    <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1455" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,8 +89,8 @@
         <mxCell id="wcZV9fzcy_JCORuPqOIP-59" value="Special cases&lt;br&gt;- intermediate result in learning&lt;br&gt;- system of learnable models: how to learn?" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="123" y="540" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wcZV9fzcy_JCORuPqOIP-60" value="A new modeling framework" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="113" y="-50" width="340" height="40" as="geometry" />
+        <mxCell id="wcZV9fzcy_JCORuPqOIP-60" value="A new Modeling&amp;amp;Simulation framework" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="108" y="-30" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcZV9fzcy_JCORuPqOIP-61" value="standardization&lt;br&gt;simple&lt;br&gt;intuitive" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=12;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="355.9951736931556" y="306.9987986780118" as="geometry">
