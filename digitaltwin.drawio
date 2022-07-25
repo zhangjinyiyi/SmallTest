@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T11:36:58.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vtRTfSyU9RRq_ZhV2X7s" version="20.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-25T11:44:19.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8C7vGk2e-lhv3ny3RMmX" version="20.0.1" type="github" pages="8">
   <diagram id="WX_kT3aoNidh6nuhI1xW" name="Global">
     <mxGraphModel dx="1455" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -200,8 +200,8 @@
         <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-2" value="data" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-4" value="FMU: Dynamic model&lt;br&gt;General function: static model&lt;br&gt;Deep learning model" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-282" y="230" width="170" height="50" as="geometry" />
+        <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-4" value="FMU: Dynamic model&lt;br&gt;General function: static model&lt;br&gt;NN model" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="230" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;elbow=vertical;" edge="1" parent="1" source="SvA6rQcaN-VjJ_lVK_Wi-5" target="SvA6rQcaN-VjJ_lVK_Wi-2">
           <mxGeometry relative="1" as="geometry" />
