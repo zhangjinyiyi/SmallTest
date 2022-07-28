@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T12:18:29.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="z3WSObfQ_ecvMkEy8oYt" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-28T06:27:05.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="81_hHIvu_-s7Q72P1qs1" version="20.2.0" type="github" pages="9">
   <diagram id="-ImNXB6FkEREr2_MA-cf" name="AIX">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,8 +111,8 @@
             <mxPoint x="70.00622049194189" y="15.02173317387777" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kj6bRCmpnUv3WgM_7v0z-1" value="AI integration into X&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="55" y="650" width="276" height="30" as="geometry" />
+        <mxCell id="kj6bRCmpnUv3WgM_7v0z-1" value="AI integration into X: fusion of traditional and new" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="55" y="650" width="535" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kj6bRCmpnUv3WgM_7v0z-2" value="Industry&lt;br&gt;Case&lt;br&gt;Project&lt;br&gt;Product&lt;br&gt;Research" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="55" y="681" width="120" height="30" as="geometry" />
@@ -321,8 +321,8 @@
         <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-2" value="data" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-4" value="FMU: Dynamic model&lt;br&gt;General function: static model&lt;br&gt;NN model" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-283" y="230" width="170" height="50" as="geometry" />
+        <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-4" value="FMU: Dynamic model&lt;br&gt;General function: static model&lt;br&gt;NN model&lt;br&gt;Geometry PDE" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-283" y="230" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SvA6rQcaN-VjJ_lVK_Wi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;elbow=vertical;" parent="1" source="SvA6rQcaN-VjJ_lVK_Wi-5" target="SvA6rQcaN-VjJ_lVK_Wi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -366,7 +366,7 @@
           <mxGeometry x="-81" y="231" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HtJzVP0Q8CgcdRQBe9Nq-1" value="PINN: JAX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="-283" y="320" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HtJzVP0Q8CgcdRQBe9Nq-2" value="Performance&lt;br&gt;Flexibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-300" y="-85" width="80" height="30" as="geometry" />
